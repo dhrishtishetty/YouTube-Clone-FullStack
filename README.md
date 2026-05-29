@@ -32,3 +32,29 @@ git clone https://github.com/dhrishtishetty/YouTube-Clone-FullStack.git
 cd YouTube-Clone-FullStack
 npm install
 
+---
+
+## 🔑 Environment Variables
+
+Create a .env file and add:
+
+DB_URL=mongodb+srv://admin:admin@db.jxy88fy.mongodb.net/youtube?retryWrites=true&w=majority
+PORT=5000
+
+---
+
+## ▶️ Run Locally
+npm start
+
+---
+
+## 🌐 Live Demo
+
+https://you-tube-clone-full-stack-project-dhrishti-shetty-s-projects.vercel.app/
+
+---
+
+👨‍💻 Author
+
+Made with ❤️ by Dhrishti
+
