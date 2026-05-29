@@ -34,7 +34,7 @@ npm install
 
 ---
 
-## 🔑 Environment Variables
+🔑 Environment Variables
 
 Create a .env file and add:
 
@@ -43,12 +43,12 @@ PORT=5000
 
 ---
 
-## ▶️ Run Locally
+▶️ Run Locally
 npm start
 
 ---
 
-## 🌐 Live Demo
+🌐 Live Demo
 
 https://you-tube-clone-full-stack-project-dhrishti-shetty-s-projects.vercel.app/
 
