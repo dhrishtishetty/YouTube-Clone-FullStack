@@ -28,7 +28,7 @@ A full-stack YouTube clone built using the MERN stack with features like authent
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/dhrishti/YouTube-Clone-FullStack.git
+git clone https://github.com/dhrishtishetty/YouTube-Clone-FullStack.git
 cd YouTube-Clone-FullStack
 npm install
 
